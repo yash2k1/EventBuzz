@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EventBuzz/static/css/main.a457b003.css",
+    "main.js": "/EventBuzz/static/js/main.225e2387.js",
+    "static/media/Mumbai.jpg": "/EventBuzz/static/media/Mumbai.f9769e6e21728a6cb3df.jpg",
+    "static/media/Experience1.jpg": "/EventBuzz/static/media/Experience1.99381c92a8ffe677e55a.jpg",
+    "static/media/dubai.jpg": "/EventBuzz/static/media/dubai.400f361716bca2e29acd.jpg",
+    "static/media/jaipur.jpg": "/EventBuzz/static/media/jaipur.9bea19cbb2e787f3d011.jpg",
+    "static/media/delhi.jpg": "/EventBuzz/static/media/delhi.4bff99f5faffbc35f054.jpg",
+    "static/media/up.jpg": "/EventBuzz/static/media/up.ec56645dbeb9ec65b92f.jpg",
+    "static/media/Experience2.jpg": "/EventBuzz/static/media/Experience2.ec1487010ca186bc8b4f.jpg",
+    "static/media/agra.jpg": "/EventBuzz/static/media/agra.66cde90bbd1c98e62c02.jpg",
+    "static/media/mainBakgroundImage.jpg": "/EventBuzz/static/media/mainBakgroundImage.755ebb0ea7a5ea822a30.jpg",
+    "static/media/Services.png": "/EventBuzz/static/media/Services.fe1d23fab9370c71ab3e.png",
+    "static/media/AboutUsImg.jpg": "/EventBuzz/static/media/AboutUsImg.b10fe146776a66311626.jpg",
+    "static/media/Contact.png": "/EventBuzz/static/media/Contact.d4ddb2b4a1ae2defce68.png",
+    "index.html": "/EventBuzz/index.html",
+    "main.a457b003.css.map": "/EventBuzz/static/css/main.a457b003.css.map",
+    "main.225e2387.js.map": "/EventBuzz/static/js/main.225e2387.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a457b003.css",
+    "static/js/main.225e2387.js"
+  ]
+}
